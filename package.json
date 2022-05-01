@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "ad-block": "^4.1.3",
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.814.0",
     "fs-extra": "^5.0.0",
     "glob": "^7.1.3",
     "lodash": "^4.17.13",
